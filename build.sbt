@@ -1,6 +1,6 @@
 name := "play-sass"
 
-version := "0.1.3"
+version := "0.2.0"
 
 sbtPlugin := true
 
@@ -16,4 +16,4 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "1.7.1" % "test"
 )
 
-addSbtPlugin("play" % "sbt-plugin" % "2.1-RC1")                                        
+addSbtPlugin("play" % "sbt-plugin" % "2.1-RC4")                                        
